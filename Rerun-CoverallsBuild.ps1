@@ -1,7 +1,7 @@
 
 <#PSScriptInfo
 
-.VERSION 1.0.0
+.VERSION 1.0.1
 
 .GUID c6aec726-b31a-4a9b-af8d-89a26d07aad5
 
@@ -14,8 +14,10 @@
 .TAGS Coveralls
 
 .LICENSEURI
+https://github.com/justin-newman/Rerun-CoverallsBuild/blob/main/LICENSE.md
 
 .PROJECTURI
+https://github.com/justin-newman/Rerun-CoverallsBuild
 
 .ICONURI
 
@@ -51,7 +53,7 @@ Rerun-CoverallsBuild.ps1 -BuildId 1234567890 -RepoToken anQSYAtp2SgTegOMFlBq2rnd
 .NOTES
 MIT LICENSE
  
-Copyright (c) 2022 Microsoft
+Copyright (c) 2022 Justin Newman
  
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
  
